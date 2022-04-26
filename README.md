@@ -5,7 +5,7 @@
 
 Try it on JSFiddle https://jsfiddle.net/jacopovalanzano/qubdfer2
 
-![browsilo screenshot](https://i.ibb.co/D8tp2ns/NRdst.png)
+![browsilo screenshot](https://i.imgur.com/o9e4N0p.gif)
 ## Install
 
 ``$ npm install vue-browsilo``
